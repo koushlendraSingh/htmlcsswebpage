@@ -1,0 +1,1 @@
+This is my first web design containing a fixed header, footer, sematic tags, hero unit etc.. 
